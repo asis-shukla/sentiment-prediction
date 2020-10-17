@@ -1,11 +1,13 @@
 import React from "react";
 import "./App.css";
+import InputForm from "./components/InputForm";
 
 function App() {
   return (
     <div className="App">
-      <h1>Sentiment Prediction App for English Text</h1>
-      <h2> Under Development | Thanks for visit</h2>
+      <h1 className="heading"> English Text Sentiment Prediction App </h1>
+      <hr/>
+      <InputForm/>
     </div>
   );
 }
