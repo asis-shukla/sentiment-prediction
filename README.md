@@ -1,4 +1,8 @@
-# sentiment-prediction
+# sentiment-prediction App for English Text
+
+Live Version of this App is avilable here https://checkfeel.netlify.app/
+
+User can input their english text using simple form and get prediction results on the same page
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
